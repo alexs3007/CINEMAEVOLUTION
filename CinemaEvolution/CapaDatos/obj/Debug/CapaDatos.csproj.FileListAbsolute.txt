@@ -1,0 +1,4 @@
+C:\Users\Owner User\Desktop\Proyecto Cientifica Capas\CinemaEvolution\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\Users\Owner User\Desktop\Proyecto Cientifica Capas\CinemaEvolution\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Owner User\Desktop\Proyecto Cientifica Capas\CinemaEvolution\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\Owner User\Desktop\Proyecto Cientifica Capas\CinemaEvolution\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
